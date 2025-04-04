@@ -24,7 +24,7 @@
 ## 🧰 Tech Stack
 
 - [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Router DOM](https://reactrouter.com/)
 
@@ -38,13 +38,13 @@ jotjoy/
 │   └── assets/
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.tsx
-│   │   ├── NoteList.tsx
-│   │   └── AddNote.tsx
+│   │   ├── Navbar.jsx
+│   │   ├── NoteList.jsx
+│   │   └── AddNote.jsx
 │   ├── pages/
-│   │   ├── Home.tsx
-│   │   ├── About.tsx
-│   │   └── NotFound.tsx
+│   │   ├── Home.jsx
+│   │   ├── About.jsx
+│   │   └── NotFound.jsx
 │   ├── App.tsx
 │   └── main.tsx
 ├── tailwind.config.js
